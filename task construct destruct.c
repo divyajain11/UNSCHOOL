@@ -1,4 +1,4 @@
-//task: constructor and destructor
+//task: constructor and destructor for calculator
 #include <iostream>
 
 using namespace std;
